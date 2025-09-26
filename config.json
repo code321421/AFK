@@ -1,0 +1,37 @@
+{
+  "server": {
+    "host": " IAB1.aternos.me",
+    "port": 33653,
+    "version": "1.16.5"
+  },
+  "bot": {
+    "username": "AFKBot",
+    "auth": "offline"
+  },
+  "forge": {
+    "enabled": true,
+    "version": "36.2.42"
+  },
+  "mods": [
+    "chunky",
+    "comforts",
+    "deathchest",
+    "ferritecore",
+    "fpsboost",
+    "letmedespawn",
+    "modernfix",
+    "sophisticatedbackpacks",
+    "spark",
+    "tctcore",
+    "voicechat"
+  ],
+  "reconnect": {
+    "enabled": true,
+    "delay": 5000,
+    "maxRetries": -1
+  },
+  "keepAlive": {
+    "enabled": true,
+    "interval": 30000
+  }
+}
