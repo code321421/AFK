@@ -1,0 +1,25 @@
+ "name": "minecraft-afk-bot",
+  "version": "1.0.0",
+  "description": "Bot AFK para servidor de Minecraft con Forge 1.16.5",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "node bot.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.20.1",
+    "prismarine-forge": "^1.0.1",
+    "minecraft-protocol": "^1.44.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "keywords": [
+    "minecraft",
+    "bot",
+    "afk",
+    "forge"
+  ],
+  "author": "Tu nombre",
+  "license": "MIT"
+}
